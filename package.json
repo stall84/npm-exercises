@@ -1,0 +1,22 @@
+{
+  "name": "npm-exercises",
+  "version": "1.0.0",
+  "description": "\"npm exercises\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stall84/npm-exercises.git"
+  },
+  "author": "Michael Stallings",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stall84/npm-exercises/issues"
+  },
+  "homepage": "https://github.com/stall84/npm-exercises#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
